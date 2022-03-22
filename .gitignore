@@ -1,0 +1,4 @@
+# ignore map, miou, datasets
+img/
+Medical_Datasets/
+VOCdevkit/
